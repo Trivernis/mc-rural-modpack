@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Trivernis/mc-rural-modpack/develop/resources/custom/menu/Rural.png" style="height: 100px; width: auto; margin: auto" alt="Rural">
+<img src="https://raw.githubusercontent.com/Trivernis/mc-rural-modpack/resources/custom/menu/Rural.png" style="height: 100px; width: auto; margin: auto" alt="Rural">
 ===
 
 This modpack is an attempt to recreate Life in the Woods Renaissance for Minecraft 1.12.2 (and higher?).
@@ -92,6 +92,14 @@ Included are the following mods. If there is an update and I missed it, feel fre
 -   [CurseForge](https://minecraft.curseforge.com/projects/bookshelf)
 
 
+**Carpenter's Blocks**
+> Carpenter's Blocks by Mineshopper. Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns.
+
+_Build from modified Source: Doesn't Contain Baked Blocks and Pressure Plates_
+
+-   [GitHub](https://github.com/Mineshopper/carpentersblocks/commits/1.12.2-preview)
+
+
 **Ceramics**
 > Ceramics by KnightMiner. Adds a few early game items based on baking clay.
 
@@ -178,6 +186,14 @@ Included are the following mods. If there is an update and I missed it, feel fre
 > Dynamic Trees BOP by mangoose. Adding Dynamic Trees compatability for Biomes O' Plenty.
 
 -   [CurseForge](https://minecraft.curseforge.com/projects/dtbop)
+
+
+**Dynamic Trees PHC**
+> Dynamic Trees PHC by ferreusveritas. Adding Dynamic Trees compatability for Pam's Harvestcraft.
+
+_Build from source_
+
+-   [Github](https://github.com/ferreusveritas/DynamicTrees-PHC)
 
 
 **Enchanting Plus**
