@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Trivernis/mc-rural-modpack/develop/resources/custom/menu/Rural.png" style="height: 100px; width: auto; margin: auto" alt="Rural">
+<img src="https://raw.githubusercontent.com/Trivernis/mc-rural-modpack/resources/custom/menu/Rural.png" style="height: 100px; width: auto; margin: auto" alt="Rural">
 ===
 
 This modpack is an attempt to recreate Life in the Woods Renaissance for Minecraft 1.12.2 (and higher?).
