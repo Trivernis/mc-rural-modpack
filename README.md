@@ -167,7 +167,7 @@ _Build from modified Source: Doesn't Contain Baked Blocks and Pressure Plates_
 **Decocraft**
 > Decocraft by RazzleberryFox. Adds 500+ models to decorate your Minecraft world.
 
--   [CurseForge](https://minecraft.curseforge.com/projects/decocraft)
+-   [CurseForge](https://minecraft.curseforge.com/projects/decocraft2)
 
 
 **DiscordSuite 3**
@@ -211,7 +211,7 @@ _Build from source_
 **Fullscreen Windowed**
 > Fullscreen Windowed by Hancin. Activates fullscreen windowed mode for Minecraft.
 
--   [CurseForge](https://minecraft.curseforge.com/projects/fullscreen-windowed-borderless-for-minecraft1)
+-   [CurseForge](https://minecraft.curseforge.com/projects/fullscreen-windowed-borderless-for-minecraft)
 
 
 **Garden Stuff**
